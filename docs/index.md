@@ -1,3 +1,7 @@
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EJuCH2TxosOf4Jx88uL_LLdBV__ob3Z7Xg&s
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qnnc2pJ7y8Q?si=1-K5LVFtvktcpWFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # マークダウンで書いたページ
 ⼈⽣は、⽣きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、⼈の役に⽴てれば最⾼!
 ## 中野信⼦⽒「⽣きてるだけで丸儲け」は⽣物学的にも正しい
